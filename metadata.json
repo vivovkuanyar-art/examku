@@ -1,0 +1,6 @@
+{
+  "name": "ExamBrowser Asisi",
+  "description": "Aplikasi browser ujian aman SMA YPPK St. Fransiskus Asisi Sentani dengan proteksi anti-kecurangan dan mode layar penuh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
